@@ -1,0 +1,14 @@
+This App is meant for JavaScript developers that want to play around 
+with Apache Cordova without going trough the hassles of first 
+installing Eclipse, the Android SDK and PhoneGap.
+ 
+Cordova Underling is a simple 'redirect to web' App that allows you 
+to simply put your personal Cordova App on your website. 
+
+Enter the Apps URL in order to start your JavaScript Cordova App 
+on your mobile phone.
+
+This version of Underling works with Cordova 2.1.0
+
+This App requires an extended set of privileges in order to allow your Cordova 
+Apps to utilize the full Cordova API.
